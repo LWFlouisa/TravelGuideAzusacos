@@ -52,7 +52,7 @@ kannzt d'Azusacos dedde?  [ Kahn-stay duh Azusacos read? ] - Do you understand t
 Gahtz                     [ Gah-teh-zah ]                  - OK<br />
 
 ### Your name is
-Wie heizch du? [ wi-high ze-sha doo? ] - What is your name?
+Wie heizch du? [ wi-high ze-sha doo? ] - What is your name?<br />
 Ich heizch ... [ I-shi eh-zeh-sha ] - My name is ...<br />
 
 ### What year is it?
