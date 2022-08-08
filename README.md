@@ -40,10 +40,10 @@ Mozhi Mozhi                         - Hello<br >
 enchante                            - nice to meet you<br />
 
 ## Welcome
-Accueil   ( francais )   - Welcome ( formal )
-Willkumme ( Alsatian )   - Welcome ( formal )
-Accueih   ( fr dialect ) - Welcome ( informal )
-Wihhkumme ( Azusacos )   - Welcome ( informal )
+Accueil   ( francais )   - Welcome ( formal )<br />
+Willkumme ( Alsatian )   - Welcome ( formal )<br />
+Accueih   ( fr dialect ) - Welcome ( informal )<br />
+Wihhkumme ( Azusacos )   - Welcome ( informal )<br />
 
 ### Understanding
 kannst dü englisch redde? [ Kahn-stay duh English read? ]  - Do you understand English?<br />
@@ -52,11 +52,11 @@ kannzt d'Azusacos dedde?  [ Kahn-stay duh Azusacos read? ] - Do you understand t
 Gahtz                     [ Gah-teh-zah ]                  - OK<br />
 
 ### Your name is
-Wie heizch du? [ wi-high ze-sha doo? ] - What is your name?
+Wie heizch du? [ wi-high ze-sha doo? ] - What is your name?<br />
 Ich heizch ... [ I-shi eh-zeh-sha ] - My name is ...<br />
 
 ### What year is it?
-quehhe annee [ qu-ah-ni ] - What year is it? ( informal )
+quehhe annee [ qu-ah-ni ] - What year is it? ( informal )<br />
 
 ### Travel Essentials
 wo isch's kabinee? [ Woh i-seh-shay kah-bi-neh ] -- Do you know where the restroom is?<br />
