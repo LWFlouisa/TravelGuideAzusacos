@@ -1,3 +1,17 @@
+<style>
+  body {
+    background-color: black;
+  }
+  
+  h1, h2, h3, h4, h5, h6, p, pre {
+    color: lime;
+  }
+  
+  h1, h2, h3, h4, h5, h6, p, pre {
+    color: blue;
+  }
+</style>
+
 # TravelGuideAzusacos
 A paired down version of the conlang as a travel guide.
 
