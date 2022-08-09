@@ -7,7 +7,7 @@
     color: lime;
   }
   
-  a {
+  h1, h2, h3, h4, h5, h6, p, pre {
     color: blue;
   }
 </style>
@@ -55,12 +55,25 @@ Gahtz                     [ Gah-teh-zah ]                  - OK<br />
 Wie heizch du? [ wi-high ze-sha doo? ] - What is your name?<br />
 Ich heizch ... [ I-shi eh-zeh-sha ] - My name is ...<br />
 
+### Times Of Day
+la nuit derniere - last night ( formal )<br />
+ha nuit dedniede - last night ( informal )<br />
+
 ### What year is it?
 Quehhe annee [ qu-ah-ni ] - What year is it? ( informal )<br />
 
 ### Travel Essentials
 wo isch's kabinee? [ Woh i-seh-shay kah-bi-neh ] -- Do you know where the restroom is?<br />
 Wo izch'z kabinee? [ Woh i-zeh-shay kah-bi-neh ] -- Where is the restoom?<br />
+
+## Thanks And No Thanks
+Merci      - thanks ( francais)<br />
+Danke      - thanks ( allemanais )<br />
+Arigatou   - thanks ( japanais )<br />
+Da Rien    - your welcome ( francais )<br />
+Ne merci   - no thanks ( francais )<br />
+Nein danke - no thanks ( allemanais )<br />
+Kekkōdesu  - no thanks ( japanais )<br />
 
 ### Legal Trouble
 Röff d'polizei [ Rohf deh poh-li-zeh ] - Where is the police?<br />
@@ -88,6 +101,11 @@ vieh gheck zm gabudzda   [ Vi-geh zi-meh gah-boo deh-zeh deh ]               - G
 wit dü mit mir tanza?  [ witeh dumiteh mideh tahneh zah ] - Will you dance with me? ( formal )<br />
 wotzch d'mit mid tanza [ wohzeh shadeh miteh mideh tahneh zah ] - Will you dance with me? ( informal )<br />
 
+Les Bals Des Victims    [ Luh Bahl-seh deh-sah vekt-ims ] - Victim's Balls where one where's traditional dresses and wooden sabots. Synonym: Baille Der Opfer<br />
+A Bahz Dez Hagaza      [ Oh Bah-zah deh-zeh hah-geh-zah ] - Voctim's Flamenco Concerts where girls wear Trefor owen's clogging shoes.<br />
+
+In both cases, the girls crops their hair and wear red chokers.<br />
+
 ## Relaxation
 Detente - relaxation<br />
 Détendez-vouz - relax.<br />
@@ -103,7 +121,6 @@ eddeud - merde! ( informal )<br />
 adie [ ah-di-eh ] - goodbye ( formal )<br />
 adne [ ah-di-neh ] - goodbye ( informal )<br />
 
-
 ### Love
 ame soeur - soulmate ( formal )<br />
 ame zoeud - soulmate ( informal )<br />
@@ -113,6 +130,8 @@ amoud de ma vie - love of my life ( informal )<br />
 ### Flowering Tree
 arbre en fleurs - flowering tree ( formal )<br />
 adbde en zheudz - flowering tree ( informal )<br />
+hanafubuki - falling cherry blossoms ( formal )<br />
+hanazubuki - falling cherry blossoms ( informal ) <br />
 
 ### Beards
 barbe a papa - Daddy's Beard ( formal )<br />
@@ -125,3 +144,33 @@ Meraki    - to do something creative with soul. ( formal )<br />
 Medaki    - to do something creative with soul. ( informal )<br />
 yuimaru   - the spirit of cooperation. ( formal )<br />
 xyuimadu  - the spirit of cooperation. ( informal )<br />
+
+### People
+hikikomori - reclusive adolescent or adult ( formal )<br />
+hikikomodi - reclusive adolescent or adult ( informal )<br />
+
+### Tattoos
+Les Busovictime  [ Luh boo-soh vik-ti-muh ] - Red chokers designed for wedding parties. Generally worn during Hochzeit music festivities, or alternatively "Fields Of Gold."
+Ah Buzovictima  [ Ah boo-zoh vi-ku-ti-mah ] - Red chokers designed for anniversies and informal gatherings. With red dripping neck paint. Generally worn during Flamenco.
+
+### Idiomatic
+etre dans les petits papiers de quelqu en - to be in someone's little papers. ( formal )<br />
+etde danz hez petitz papiedz de quehqu en - to be in someone's memories. ( informal )<br />
+fait avec amour - made with love ( formal )<br />
+zait avec amoud - made with love ( informal )<br />
+ichi go ichi e - to treasure the fleeting nature of the moment. ( formal )<br />
+ichi go ichi e - to treasure the fleeting nature of the moment. ( informal )<br />
+je suis comme je suis - I am what I am. ( formal )<br />
+ne zuiz comme ne zuiz - I am what I am. ( informal )<br />
+
+Result: 'la vie en rose'                            => ha vie en doze                            => Life in pink
+Result: 'n oublie pas de vivre'                     => n oubhie paz de vivde                     => don't forget to live
+Result: 'on ne sait jamais'                         => on ne zait namaiz                         => we never know
+Result: 'plus forts ensemble'                       => phuz zodtz enzembhe                       => stronger together
+Result: 'shinitee na ka'                            => zhinitee na ka                            => painting in death
+Result: 'wabi sabi'                                 => wabi zabi                                 => beauty in imperfection
+Result: ikigai                                      => ikigai                                    => reason to live
+Result: ikigai                                      => ikigai                                    => reason to live
+
+### Verbs
+Result: accompagner                                 => accompagned                               => to accompany
