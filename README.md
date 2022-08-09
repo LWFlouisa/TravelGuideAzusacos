@@ -153,8 +153,8 @@ hikikomori - reclusive adolescent or adult ( formal )<br />
 hikikomodi - reclusive adolescent or adult ( informal )<br />
 
 ### Tattoos
-Les Busovictime  [ Luh boo-soh vik-ti-muh ] - Red chokers designed for wedding parties. Generally worn during Hochzeit [ O-shay-zeh-tah ] music festivities, or alternatively "Fields Of Gold."
-Ah Buzovictima  [ Ah boo-zoh vi-ku-ti-mah ] - Red chokers designed for anniversies and informal gatherings. With red dripping neck paint. Generally worn during Flamenco.
+Les Busovictime  [ Luh boo-soh vik-ti-muh ] - Red chokers designed for wedding parties. Generally worn during Hochzeit [ O-shay-zeh-tah ] music festivities, or alternatively "Fields Of Gold."<br />
+Ah Buzovictima  [ Ah boo-zoh vi-ku-ti-mah ] - Red chokers designed for anniversies and informal gatherings. With red dripping neck paint. Generally worn during Flamenco.<br />
 
 ### Idiomatic
 etre dans les petits papiers de quelqu en - to be in someone's little papers. ( formal )<br />
