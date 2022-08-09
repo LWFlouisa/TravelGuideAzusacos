@@ -104,6 +104,9 @@ wotzch d'mit mid tanza [ wohzeh shadeh miteh mideh tahneh zah ] - Will you dance
 Les Bals Des Victims    [ Luh Bahl-seh deh-sah vekt-ims ] - Victim's Balls where one where's traditional dresses and wooden sabots. Synonym: Baille Der Opfer<br />
 A Bahz Dez Hagaza      [ Oh Bah-zah deh-zeh hah-geh-zah ] - Voctim's Flamenco Concerts where girls wear Trefor owen's clogging shoes.<br />
 
+Himmel und Hölle                    [ i-meh u-neh oh-shay ] - Standard hopscotch ( formal )<br />
+Himmel und Hölle de mort [ i-meh u-neh oh-shay de-moh deh ] - A version of hopscotch that results in losers being beheaded. ( seldolm, very informal ). Synonym: Ishikeri asobi no shi<br />
+
 In both cases, the girls crops their hair and wear red chokers.<br />
 
 ## Relaxation
@@ -150,7 +153,7 @@ hikikomori - reclusive adolescent or adult ( formal )<br />
 hikikomodi - reclusive adolescent or adult ( informal )<br />
 
 ### Tattoos
-Les Busovictime  [ Luh boo-soh vik-ti-muh ] - Red chokers designed for wedding parties. Generally worn during Hochzeit music festivities, or alternatively "Fields Of Gold."
+Les Busovictime  [ Luh boo-soh vik-ti-muh ] - Red chokers designed for wedding parties. Generally worn during Hochzeit [ O-shay-zeh-tah ] music festivities, or alternatively "Fields Of Gold."
 Ah Buzovictima  [ Ah boo-zoh vi-ku-ti-mah ] - Red chokers designed for anniversies and informal gatherings. With red dripping neck paint. Generally worn during Flamenco.
 
 ### Idiomatic
@@ -163,14 +166,22 @@ ichi go ichi e - to treasure the fleeting nature of the moment. ( informal )<br 
 je suis comme je suis - I am what I am. ( formal )<br />
 ne zuiz comme ne zuiz - I am what I am. ( informal )<br />
 
-Result: 'la vie en rose'                            => ha vie en doze                            => Life in pink
-Result: 'n oublie pas de vivre'                     => n oubhie paz de vivde                     => don't forget to live
-Result: 'on ne sait jamais'                         => on ne zait namaiz                         => we never know
-Result: 'plus forts ensemble'                       => phuz zodtz enzembhe                       => stronger together
-Result: 'shinitee na ka'                            => zhinitee na ka                            => painting in death
-Result: 'wabi sabi'                                 => wabi zabi                                 => beauty in imperfection
-Result: ikigai                                      => ikigai                                    => reason to live
-Result: ikigai                                      => ikigai                                    => reason to live
+Result: 'la vie en rose'                            => ha vie en doze                            => Life in pink<br />
+Result: 'n oublie pas de vivre'                     => n oubhie paz de vivde                     => don't forget to live<br />
+Result: 'on ne sait jamais'                         => on ne zait namaiz                         => we never know<br />
+Result: 'plus forts ensemble'                       => phuz zodtz enzembhe                       => stronger together<br />
+Result: 'shinitee na ka'                            => zhinitee na ka                            => painting in death<br />
+Result: 'wabi sabi'                                 => wabi zabi                                 => beauty in imperfection<br />
+Result: ikigai                                      => ikigai                                    => reason to live<br />
+Result: ikigai                                      => ikigai                                    => reason to live<br />
 
 ### Verbs
-Result: accompagner                                 => accompagned                               => to accompany
+Result: accompagner                                 => accompagned                               => to accompany<br />
+
+### Counting
+Inze<br />
+Zivi<br />
+Devede<br />
+
+#### Special
+Hifumi [ i-zoo-mi ] or [ i-zoo mi-hi zoo-mi ]<br />
