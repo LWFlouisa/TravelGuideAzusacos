@@ -159,6 +159,7 @@ Ah Buzovictima  [ Ah boo-zoh vi-ku-ti-mah ] - Red chokers designed for anniversi
 ### Capital Punishment [ Antiquated ]
 Lanos Guhhotne Tod [ toh-dah goh-ti noh ] - A guillotine shaped like a Shinto Torii. ( becomes "Lanos Todagotinos" )<br />
 Lanos Guhhotne Cduzachy [ ceh-duh zah-zuh choh ] - A guillotine shaped like a Catholic crusafix. ( becomes "Lanos Ceduzazuchatinos" )<br />
+Lanos Guhhotne Uezutan [ uh-zuh-tan-ti-noh ] - A general term for the guillotine used in the United states after take over by New France, expanded into the full West coast. Also the Japanese disproportionate responce. ( becomes "Lanos Uzutantinos " )<br />
 
 ### Idiomatic
 etre dans les petits papiers de quelqu en - to be in someone's little papers. ( formal )<br />
