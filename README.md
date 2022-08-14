@@ -156,6 +156,10 @@ hikikomodi - reclusive adolescent or adult ( informal )<br />
 Les Busovictime  [ Luh boo-soh vik-ti-muh ] - Red chokers designed for wedding parties. Generally worn during Hochzeit [ O-shay-zeh-tah ] music festivities, or alternatively "Fields Of Gold."<br />
 Ah Buzovictima  [ Ah boo-zoh vi-ku-ti-mah ] - Red chokers designed for anniversies and informal gatherings. With red dripping neck paint. Generally worn during Flamenco.<br />
 
+### Capital Punishment [ Antiquated ]
+Lanos Guhhotne Tod [ toh-dah goh-ti noh ] - A guillotine shaped like a Shinto Torii. ( becomes "Lanos Todagotinos" )<br />
+Lanos Guhhotne Cduzachy [ ceh-duh zah-zuh choh ] - A guillotine shaped like a Catholic crusafix. ( becomes "Lanos Ceduzazuchatinos" )<br />
+
 ### Idiomatic
 etre dans les petits papiers de quelqu en - to be in someone's little papers. ( formal )<br />
 etde danz hez petitz papiedz de quehqu en - to be in someone's memories. ( informal )<br />
