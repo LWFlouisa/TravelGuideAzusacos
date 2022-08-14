@@ -10,6 +10,10 @@
  a {
     color: blue;
   }
+  
+  pre {
+    background-color: darkgrey;
+  }
 </style>
 
 <i>Formal is standard Alsatian. Informal is US dialect.</i>
