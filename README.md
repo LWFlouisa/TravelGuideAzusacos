@@ -14,6 +14,85 @@
 
 <i>Formal is standard Alsatian. Informal is US dialect.</i>
 
+[Linguadap](https://lwflouisa.github.io/TravelGuideAzusacos/Linguadapt/linguadapt-0.1.0.gem)
+
+### Under The Hood
+The actual code.
+
+~~~ruby
+module Linguadapt
+  class Corpus
+    def self.adapt_each_word
+      number = 0
+
+      # The actual dictionary of words to adapt.
+      dictionary = File.readlines("word_list.txt").sort
+
+      # Basing iteration limit on total dictionary size.
+      iter_limit = dictionary.size.to_i
+
+      alphabet = {
+        # Vowels and consonants that remain the same.
+        "B" => "B", "C" => "C",
+        "G" => "G", "N" => "N",
+        "K" => "K", "M" => "M",
+        "P" => "P", "Q" => "Q",
+        "T" => "T", "V" => "V",
+        "W" => "W", "Z" => "Z", 
+
+        # Vowel specific rules.
+        "A" => "A", "I" => "I",
+        "O" => "O", "U" => "U",
+        "E" => "E", "Y" =>  "XY",
+
+        # Relevant consonant shifts.
+        "D" =>  "D", "F" =>  "Z",
+        "S" =>  "Z", "R" =>  "D",
+        "L" =>  "H", "J" =>  "N",
+        "X" => "XY", "H" =>  "H",
+
+        " " => " ",
+      }
+
+
+      # Limits the iteration to the size of the actual dictionary.
+      iter_limit.times do
+        chosen_word = dictionary[number].upcase
+
+        print "Result: #{chosen_word.downcase.strip} => "
+
+        word_length    = chosen_word.to_s.split("")
+        word_iteration = word_length.size.to_i
+        word_char = 0
+
+        word_iteration.times do
+          char = alphabet[chosen_word[word_char]].to_s
+
+          print char.downcase
+
+          word_char = word_char + 1
+        end
+
+        print " => "
+        system("trans -b #{chosen_word.downcase.strip}")
+
+        # Prevents stack level going to deep.
+        #sleep(0.5)
+
+        number = number + 1
+      end
+    end
+  end
+end
+
+Linguadapt::Corpus.adapt_each_word
+~~~
+
+### Setting up a linguadoc.
+Create a folder called input, a folder in that called dictionary. And in that folder a txt file called word_list.
+
+With line breaks, include each word from the French and Japanese dictionary you want to use. This software uses google translate to translate into English.
+
 # TravelGuideAzusacos
 A paired down version of the conlang as a travel guide.
 
