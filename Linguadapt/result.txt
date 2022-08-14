@@ -1,0 +1,39 @@
+Result: 'nama no sakana' => nama no zakana => raw fish
+Result: 'casse cou'      => cazze cou      => daredevil
+Result: 'de rien'        => de den         => You're welcome
+Result: 'loup garou'     => houp gadou     => werewolf
+Result: 'quelle annee'   => quehhe annee   => what year
+Result: 'traces de pas'  => tdacez de paz  => footprints
+Result: abbord           => abbodd         => on board
+Result: abeilles         => abehhez        => bees
+Result: abricot          => abdcot         => apricot
+Result: absente          => abzente        => absent
+Result: accent           => accent         => accent
+Result: accompagner      => accompagned    => to accompany
+Result: accord           => accodd         => accord
+Result: accueil          => accueh         => welcome
+Result: achat            => achat          => purchase
+Result: achete           => achete         => bought
+Result: adler            => adhed          => adler
+Result: amour            => amoud          => amour
+Result: authentique      => authentque     => authentic
+Result: bleu             => bheu           => bleu
+Result: bof              => boz            => bof
+Result: buruberi         => budubed        => stupid
+Result: cadres           => caddez         => frames
+Result: chouette         => chouette       => owl
+Result: delice           => dehce          => madly
+Result: eblouissant      => ebhouzzant     => dazzling
+Result: enchante         => enchante       => nice to meet you
+Result: espiegle         => ezpeghe        => espiegle
+Result: etoile           => etohe          => etoile
+Result: fidelite         => zdehte         => faithfulness
+Result: hiver            => hved           => winter
+Result: imprevisible     => mpdevzbhe      => unpredictable
+Result: levres           => hevdez         => lips
+Result: petillante       => pethhante      => petillant
+Result: pluvieux         => phuveuxy       => rainy
+Result: seduisante       => zeduzante      => seducing
+Result: sentiment        => zentment       => sentiment
+Result: voeux            => voeuxy         => wishes
+Result: voix             => voxy           => voice
