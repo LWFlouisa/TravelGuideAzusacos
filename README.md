@@ -16,7 +16,10 @@
 
 [Linguadap](https://lwflouisa.github.io/TravelGuideAzusacos/Linguadapt/linguadapt-0.1.0.gem)
 
-### Under The Hood
+### Design Philosphy
+The language is built around the fact that Alsatian German and Japanese began to rapidly influence the American dialect of French. Also eventually there was a consonant shift that adapt to how the language was actually spoken. For example, the L is actually silent and S shifted into a Z.
+
+## Under The Hood
 The actual code.
 
 ~~~ruby
