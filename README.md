@@ -216,6 +216,9 @@ ame zoeud - soulmate ( informal )<br />
 amour de ma vie - love of my life ( formal )<br />
 amoud de ma vie - love of my life ( informal )<br />
 
+### Phobia
+Shinchokuphobia ( Lanos Xinixokuzobos [ Shi-ni shoh-ku zoh-boh ] ) - Out Of Place, Out Of Time ( OOPOOT ); feeling like your born in an earlier century.<br />
+
 ### Flowering Tree
 arbre en fleurs - flowering tree ( formal )<br />
 adbde en zheudz - flowering tree ( informal )<br />
